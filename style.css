@@ -1,0 +1,189 @@
+#Start{
+    margin-left: 4%;
+}
+
+#landing-page{
+position: absolute;
+height: 900px;
+width: 95%;
+}
+
+#Landing-page-All{
+    padding: 6%;
+}
+
+button{
+    color: white;
+    background-color: orange;
+    border-radius: 60px;
+    width: 15%;
+    height: 60px;
+    align-self: center;
+    text-align: center;
+    margin-left: 2%;
+    font-size: 20px;
+}
+
+#navbar{
+    position: relative;
+    color: black;
+    background-color: white;
+    display:flex;
+    right: 4%;
+    font-size: 20px;
+    gap: 5%;
+    border-radius: 60px;
+    padding: 10px;
+   margin-left: 3%;
+   
+}
+
+#LP-text{
+    position: relative;
+    color: white;
+    left: 7%;
+    font-size: 40px;
+   font-family: cursive;
+}
+
+#TravelPoints{
+    display: flex;
+     gap: 5%;
+     margin-left: 10%; 
+}
+
+#SloganToBeauty{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 7%;
+}
+
+.CanyonVisitimage{
+   width:80% ; 
+   height: 250px;
+   
+}
+.MaldivesVisitimage{
+    width:80% ; 
+    height: 250px;
+ }
+ .AngkorVisitimage{
+    width:80% ; 
+    height: 250px;
+ }
+
+ #bottom-curve{
+    border-bottom: dashed;
+    height: 140px;
+    width: 140px;
+    border-radius: 50px;
+ }
+
+ .featureArrow{
+   align-self: center;
+
+ }
+
+ .featureword{
+    text-align: center;
+    font-size: 50px;
+ }
+
+ #Feature{
+    display: flex;
+    gap: 4%;
+    margin-left: 10%; 
+ }
+
+ #top-curve{
+    border-top: dashed;
+    height: 140px;
+    width: 140px;
+    border-radius: 50px;
+ }
+
+ #TopDestinations{
+    display: flex;
+    height: 65px;
+    width: 55%;
+    padding: 2%;
+    color: black;
+    background-color: white;
+    margin-left: 9%;
+ }
+
+ #ItalyHoliday{
+    display: flex;
+    gap: 8%;
+    border-radius: 300%;
+    margin-left: 1%;
+   
+ }
+
+ #italywaters{
+   border-radius: 30px;
+ }
+
+ .PortoCervo{
+    border-radius: 30px;
+ }
+
+.Italybeauty{
+    border-radius: 30px;
+}
+
+#clientRatings{
+    display: flex;
+    gap: 6%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+#blog{
+    font-size: 20px;
+}
+
+.florenceAlone{
+    position: absolute;
+    height: 580px;
+    width: 55%;
+    border-radius: 30px;
+    margin-left: 5%;
+}
+
+.florencetext{
+    position: relative;
+    font-size: 30px;
+    color: white;
+    top: 350px;
+    left: 10%;
+}
+
+#Finances{
+    display: flex;
+    gap: 10%;
+    margin-top: 4%;
+}
+
+#ContactUs{
+    font-size: 27px;
+}
+
+#YellowBackground{
+    display: flex;
+    background-color: orange;
+    margin-top: 3%;
+    gap: 10%;
+    width: 80%;
+    border-radius: 30px;
+    margin-left: 10%;
+}
+
+#Details{
+    background-color: white;
+    width: 30%;
+    gap: 5%;
+}
+
+
+
